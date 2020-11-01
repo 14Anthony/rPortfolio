@@ -4,7 +4,7 @@ const products = [
     name: 'First Project',
     image: '/images/One.jpg',
     description:
-      'The knowledge I had starting off in this bootcamp was that my email, would sometimes ask me if I wanted to print in plain text html, and I did not know what that was',
+      'The knowledge I had starting off in this bootcamp was that my email, would sometimes ask me if I wanted to print in plain text html',
     rating: .5,
     numReviews: 1,
   },
@@ -31,7 +31,7 @@ const products = [
     name: 'BelcastroWeather',
     image: '/images/BelcastroWeather.jpg',
     description:
-      'Here I actually began to understand what the instructor was saying when I heard, dynamic rendering, and jQuery and javascript became less foreign',
+      'Here I actually began to understand what the instructor was saying when I heard, dynamic rendering, and jQuery and javascript became less foreign, the functionality of this project allowed me to learn a little bit more of the forest for the trees, seeing the true functionality of a frontside api',
     rating: 4,
     numReviews: 9,
   },
@@ -41,7 +41,7 @@ const products = [
     name: 'MyVoice',
     image: '/images/myVoice.jpg',
     description:
-      'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+      'The ultimate home entertainment center starts with myVoice. Whether you are into singing in the shower, singing all alone, singing with the radio , or Karoaking all night long.  MyVoice was a team project, and my first interaction with the idiosyncracies of googles, api dynamic front end capabilities',
     rating: 4,
     numReviews: 9,
   },
