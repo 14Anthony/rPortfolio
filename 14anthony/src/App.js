@@ -1,7 +1,8 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import Header from './components/header';
-import Footer from './components/footer';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import HomePage from './pages/HomePage';
 
 
 const App = () => {
@@ -10,22 +11,15 @@ const App = () => {
 
 
     <>
-
       <Header />
-
-      <main className="py = 20">
+      <main className='py-3'>
         <Container>
-
-          <h1>Take a Journey with a New Coder </h1>
-
+          <HomePage />
         </Container>
-      </main>
+      </main >
 
       <Footer />
-
-
     </>
-
 
   );
 }
