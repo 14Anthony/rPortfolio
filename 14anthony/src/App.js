@@ -1,4 +1,7 @@
-import React from 'react'
+import React from 'react';
+import Header from './components/header';
+import Footer from './components/footer';
+
 
 const App = () => {
   return (
@@ -6,7 +9,14 @@ const App = () => {
 
 
     <>
+
+      <Header />
+
       <h1>Take a Journey with a New Coder </h1>
+
+      <Footer />
+
+
     </>
 
 
