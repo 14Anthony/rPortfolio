@@ -1,22 +1,28 @@
 {
   "files": {
     "main.css": "/rPortfolio/static/css/main.2461bdea.chunk.css",
-    "main.js": "/rPortfolio/static/js/main.ed8dd9f7.chunk.js",
-    "main.js.map": "/rPortfolio/static/js/main.ed8dd9f7.chunk.js.map",
-    "runtime-main.js": "/rPortfolio/static/js/runtime-main.343e71b7.js",
-    "runtime-main.js.map": "/rPortfolio/static/js/runtime-main.343e71b7.js.map",
-    "static/js/2.2267abdd.chunk.js": "/rPortfolio/static/js/2.2267abdd.chunk.js",
-    "static/js/2.2267abdd.chunk.js.map": "/rPortfolio/static/js/2.2267abdd.chunk.js.map",
-    "static/js/3.0397686d.chunk.js": "/rPortfolio/static/js/3.0397686d.chunk.js",
-    "static/js/3.0397686d.chunk.js.map": "/rPortfolio/static/js/3.0397686d.chunk.js.map",
+    "main.js": "/rPortfolio/static/js/main.b150f557.chunk.js",
+    "main.js.map": "/rPortfolio/static/js/main.b150f557.chunk.js.map",
+    "runtime-main.js": "/rPortfolio/static/js/runtime-main.10ad99d6.js",
+    "runtime-main.js.map": "/rPortfolio/static/js/runtime-main.10ad99d6.js.map",
+    "static/js/2.241921f8.chunk.js": "/rPortfolio/static/js/2.241921f8.chunk.js",
+    "static/js/2.241921f8.chunk.js.map": "/rPortfolio/static/js/2.241921f8.chunk.js.map",
+    "static/js/3.ab782964.chunk.js": "/rPortfolio/static/js/3.ab782964.chunk.js",
+    "static/js/3.ab782964.chunk.js.map": "/rPortfolio/static/js/3.ab782964.chunk.js.map",
     "index.html": "/rPortfolio/index.html",
     "static/css/main.2461bdea.chunk.css.map": "/rPortfolio/static/css/main.2461bdea.chunk.css.map",
-    "static/js/2.2267abdd.chunk.js.LICENSE.txt": "/rPortfolio/static/js/2.2267abdd.chunk.js.LICENSE.txt"
+    "static/js/2.241921f8.chunk.js.LICENSE.txt": "/rPortfolio/static/js/2.241921f8.chunk.js.LICENSE.txt",
+    "static/media/BelcastroWeather.643f4434.jpg": "/rPortfolio/static/media/BelcastroWeather.643f4434.jpg",
+    "static/media/One.d930a18f.jpg": "/rPortfolio/static/media/One.d930a18f.jpg",
+    "static/media/Two.d23acd08.jpg": "/rPortfolio/static/media/Two.d23acd08.jpg",
+    "static/media/hablador.a531ea4c.jpg": "/rPortfolio/static/media/hablador.a531ea4c.jpg",
+    "static/media/myVoice.c46b88d7.jpg": "/rPortfolio/static/media/myVoice.c46b88d7.jpg",
+    "static/media/todolist.b59e38af.jpg": "/rPortfolio/static/media/todolist.b59e38af.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.343e71b7.js",
-    "static/js/2.2267abdd.chunk.js",
+    "static/js/runtime-main.10ad99d6.js",
+    "static/js/2.241921f8.chunk.js",
     "static/css/main.2461bdea.chunk.css",
-    "static/js/main.ed8dd9f7.chunk.js"
+    "static/js/main.b150f557.chunk.js"
   ]
 }
